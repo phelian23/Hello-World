@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello World
 
-> One paragraph statement about the project.
+> My first Microverse project.
 
 ![screenshot](./app_screenshot.png)
 
